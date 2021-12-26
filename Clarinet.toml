@@ -1,0 +1,10 @@
+[project]
+name = "hello-clarinet"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+costs_version = 2
+[contracts.my-contract]
+path = "contracts/my-contract.clar"
+depends_on = []
